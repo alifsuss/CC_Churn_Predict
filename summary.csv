@@ -1,0 +1,7 @@
+Model,Accuracy,f1 Score,Recall
+Random Forest,96.35,87.29,84.39
+Logistic Regression,91.12,64.43,54.15
+XGBoost,96.99,89.75,88.7
+LGBM,97.04,89.97,89.37
+Longer Neural Network,95.26,84.16,84.72
+Wider Neural Network,94.82,81.41,80.73
